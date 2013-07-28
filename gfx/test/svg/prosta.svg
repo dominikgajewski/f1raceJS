@@ -1,20 +1,16 @@
 <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" >
 	<g name="asfalt">
-		
+		<rect x="57.6" y="0" height="288" width="172.8"
+          style="stroke:#4D4D4D; fill:#4D4D4D"/>
 	</g>
 	
 	<g name="liniaLewa">
-		
+		<rect x="62" y="0" height="288" width="3"
+          style="stroke:#FFFFFF; fill:#FFFFFF"/>
 	</g>
 	
 	<g name="liniaPrawa">
-		<path d="M288,223 
-				A88,88 0 0,0 223,288
-				L226, 288
-				A88,88 0 0,1 288,226 Z"
-          style="stroke:#FFFFFF; fill:#FFFFFF;"/>
+		<rect x="223" y="0" height="288" width="3"
+          style="stroke:#FFFFFF; fill:#FFFFFF"/>
 	</g>
 </svg>
-<!-- 
-
-				A88,88 0 0,1 288,65  -->
