@@ -1,0 +1,37 @@
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" >
+	<g name="asfalt">
+		<path d="M0,57.6
+				L86.4,57.6 
+				A288,288 0 0,0 172.8,0
+				L288,0
+				L288,115.2
+				A288,288 0 0,1 144,230.4
+				L0,230.4 Z"
+          style="stroke:#4D4D4D; fill:#4D4D4D;"/>
+	</g>
+	
+	<g name="liniaDluga">
+		<path d="M0,62
+				L86.4,62 
+				A288,288 0 0,0 177.2,0
+				L180.2,0
+				A288,288 0 0,1 86.4,65
+				L0,65 Z"
+          style="stroke:#FFFFFF; fill:#FFFFFF;"/>
+	</g>
+	
+	<g name="liniaKrotka">
+		<path d="M0,223
+				L144,223 
+				A288,288 0 0,0 288,107.8
+				L288,110.8
+				A288,288 0 0,1 144,226
+				L0,226 Z"
+          style="stroke:#FFFFFF; fill:#FFFFFF;"/>
+	</g>
+</svg>
+<!-- A88,88 0 0,1 288,230.4
+
+				L0,230.4
+
+ -->
