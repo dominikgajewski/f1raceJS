@@ -1,0 +1,15 @@
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" >
+	<g name="asfalt">
+		<path d="M172.8,288
+				L288,172.8
+				L288,288 Z"
+          style="stroke:#4D4D4D; fill:#4D4D4D;"/>
+	</g>
+	<g name="lineTop">
+		<path d="M177.2,288
+				L288,177.2
+				L288,180.2,
+				L180.2, 288 Z"
+          style="stroke:#FFFFFF; fill:#FFFFFF;"/>
+	</g>
+</svg>
